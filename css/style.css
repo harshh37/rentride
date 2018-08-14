@@ -1,0 +1,190 @@
+                                                                                                                                                                            /* Your custom styles */
+                                                                                                                                                                            
+                                                                                                       html,
+                                                                                                                                                                                body {
+                                                                                                                                                                                height: 100%;
+                                                                                                                                                                                width: 100%;
+                                                                                                                                                                                background-size: cover;
+                                                                                                                                                                                background: transparent;
+                                                                                                                                                                                font-family: "Comic Sans MS", cursive, sans-serif;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            #vid {
+                                                                                                                                                                                height: auto;
+                                                                                                                                                                                width: 100%;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .par {
+                                                                                                                                                                                padding: 400px 0px;
+                                                                                                                                                                                text-align: center;
+                                                                                                                                                                                transform: 0.5s easy;
+                                                                                                                                                                                overflow: hidden;
+                                                                                                                                                                                z-index: 2 !important;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .par.one,
+                                                                                                                                                                            .par.three {
+                                                                                                                                                                                margin-top: -12%;
+                                                                                                                                                                                padding: 450px 0px;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .par.five {
+                                                                                                                                                                                margin-top: -20%;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            h1 {
+                                                                                                                                                                                color: white;
+                                                                                                                                                                                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                                                                                                                                                font-size: 15em;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .poster {
+                                                                                                                                                                                position: relative;
+                                                                                                                                                                                margin-top: 5%;
+                                                                                                                                                                                margin-bottom: 9%;
+                                                                                                                                                                                z-index: 2 !important;
+                                                                                                                                                                                background-repeat: no-repeat;
+                                                                                                                                                                                padding: 120px;
+                                                                                                                                                                                background-size: 100% 130%;
+                                                                                                                                                                                margin-top: -2%;
+                                                                                                                                                                                margin-bottom: -1%;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .poster.po1 {
+                                                                                                                                                                                background-image: url("q1.jpg");
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .poster.po2 {
+                                                                                                                                                                                background-image: url("q2.jpg");
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .poster.po3 {
+                                                                                                                                                                                background-image: url("q3.jpg");
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .top-nav-collapse {
+                                                                                                                                                                                background-color: #24355C;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .flog {
+                                                                                                                                                                                height: 390px;
+                                                                                                                                                                                width: 500px;
+                                                                                                                                                                                padding: 0;
+                                                                                                                                                                                margin-bottom: -250px !important;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .header-overlay {
+                                                                                                                                                                                height: 122.6%;
+                                                                                                                                                                                position: absolute;
+                                                                                                                                                                                top: 0;
+                                                                                                                                                                                left: 0;
+                                                                                                                                                                                width: 100%;
+                                                                                                                                                                                z-index: 1;
+                                                                                                                                                                                background: #222222;
+                                                                                                                                                                                opacity: 0.55;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .he h1 {
+                                                                                                                                                                                position: absolute;
+                                                                                                                                                                                z-index: 1;
+                                                                                                                                                                                margin-top: -22%;
+                                                                                                                                                                                margin-left: 40%;
+                                                                                                                                                                                font-size: 2.8em;
+                                                                                                                                                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .mlog {
+                                                                                                                                                                                position: absolute;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            .qut {
+                                                                                                                                                                                font-size: 2.1em;
+                                                                                                                                                                                font-family: Arial, Helvetica, sans-serif;
+                                                                                                                                                                                color: rgb(233, 219, 227);
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            button.pb {
+                                                                                                                                                                                background: -webkit-repeating-linear-gradient( rgb(218, 61, 233), rgba(83, 55, 184, 0.61));
+                                                                                                                                                                                border: none;
+                                                                                                                                                                                opacity: 0.8;
+                                                                                                                                                                                transition: 0.3s;
+                                                                                                                                                                                cursor: pointer;
+                                                                                                                                                                                border-radius: 12px;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            button.pb.BK {
+                                                                                                                                                                                position: absolute;
+                                                                                                                                                                                margin-top: 23%;
+                                                                                                                                                                                margin-left: -5%;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            button.pb.SC {
+                                                                                                                                                                                position: absolute;
+                                                                                                                                                                                margin-top: 10%;
+                                                                                                                                                                                margin-left: 37%;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            button.pb.ST {
+                                                                                                                                                                                background: -webkit-repeating-linear-gradient( rgb(218, 108, 44), rgba(215, 230, 18, 0.61));
+                                                                                                                                                                                position: absolute;
+                                                                                                                                                                                margin-top: 15%;
+                                                                                                                                                                                margin-left: -5%;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            button.pb.SP {
+                                                                                                                                                                                background: -webkit-repeating-linear-gradient( rgb(212, 60, 192), rgba(230, 18, 71, 0.61));
+                                                                                                                                                                                position: absolute;
+                                                                                                                                                                                margin-top: 10%;
+                                                                                                                                                                                margin-left: -6%;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            button.pb.AU {
+                                                                                                                                                                                position: absolute;
+                                                                                                                                                                                margin-top: 15%;
+                                                                                                                                                                                margin-left: -9%;
+                                                                                                                                                                                background: -webkit-repeating-linear-gradient( rgb(44, 47, 218), rgba(18, 205, 230, 0.61));
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            a.pb {
+                                                                                                                                                                                color: white;
+                                                                                                                                                                                padding: 10px 22px;
+                                                                                                                                                                                text-align: center;
+                                                                                                                                                                                font-size: 30px;
+                                                                                                                                                                                margin: 4px 2px;
+                                                                                                                                                                                display: inline-block;
+                                                                                                                                                                                font-family: monospace, cursive !important;
+                                                                                                                                                                                text-decoration: none;
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            button.pb:hover {
+                                                                                                                                                                                opacity: 0.9;
+                                                                                                                                                                                box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+                                                                                                                                                                            }
+                                                                                                                                                                            
+                                                                                                                                                                            @media only screen and (max-width: 768px) {
+                                                                                                                                                                                .header-overlay {
+                                                                                                                                                                                    height: 41%;
+                                                                                                                                                                                }
+                                                                                                                                                                                #map-container {
+                                                                                                                                                                                    margin-right: 50%;
+                                                                                                                                                                                }
+                                                                                                                                                                                #contact {
+                                                                                                                                                                                    margin-right: 50%;
+                                                                                                                                                                                }
+                                                                                                                                                                                .container {
+                                                                                                                                                                                    margin-right: 50%;
+                                                                                                                                                                                }
+                                                                                                                                                                                .poster {
+                                                                                                                                                                                    background-size: 100% 50%;
+                                                                                                                                                                                    margin-bottom: -25%;
+                                                                                                                                                                                }
+                                                                                                                                                                                h1 {
+                                                                                                                                                                                    font-size: 1em;
+                                                                                                                                                                                }
+                                                                                                                                                                                .par {
+                                                                                                                                                                                    padding: 150px;
+                                                                                                                                                                                }
+                                                                                                                                                                                #vid {
+                                                                                                                                                                                    margin-bottom: -29.6%;
+                                                                                                                                                                                }
+                                                                                                                                                                            }                                                                     
